@@ -22,7 +22,7 @@
 <br>
 &bull; 💼 Former Intern Software Engineer at AvenirIt, Kandy, Sri Lanka.
 <br>
-&bull; 🔍 I love working with MERN stack and Laravel,
+&bull; 🔍 I love working with MERN, MEAN stacks and Spring Boot,
 <br>
 &bull; 👽 But,Learning any technology that apears on my way.
 
@@ -75,7 +75,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=RasikaLakmal&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
   <a href="https://github.com/RasikaLakmal/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasikaLakmal&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasikaLakmal&layout=compact&bg_color=0d1117&text_color=FFF&langs_count=10&hide=php&border_color=444"  height="165">
   </a>
   <br>
  

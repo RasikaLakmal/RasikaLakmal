@@ -106,12 +106,24 @@
 
 <p align="center">
   <a href="https://github.com/RasikaLakmal/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=RasikaLakmal&count_private=true&include_all_commits=true&show=reviews&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=RasikaLakmal&count_private=true&include_all_commits=true&show=reviews&show_icons=true&theme=highcontrast&hide_border=true" height="165">
   </a>
   <a href="https://github.com/RasikaLakmal/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasikaLakmal&layout=compact&bg_color=0d1117&text_color=FFF&langs_count=10&hide=php&border_color=444&include_all_commits=true&count_private=true"  height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasikaLakmal&layout=compact&theme=highcontrast&hide_border=true&langs_count=10&hide=php&include_all_commits=true&count_private=true"  height="165">
+</a>
+<a href="https://github.com/RasikaLakmal/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasikaLakmal&theme=highcontrast&hide_border=true" height="165">
 </a>
 
   <br>
  
 </p>
+
+**Throphies:**
+
+<a href="https://github.com/RasikaLakmal/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=RasikaLakmal&theme=radical&include_all_commits=true&count_private=true&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy" height="145">
+</a>
+
+---
+[![](https://visitcount.itsvg.in/api?id=RasikaLakmal&icon=8&color=1)](https://visitcount.itsvg.in)

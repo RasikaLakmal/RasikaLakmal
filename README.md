@@ -126,4 +126,9 @@
 </a>
 
 ---
+<p align="center">
+<img src="https://github.com/RasikaLakmal/RasikaLakmal/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+---
 [![](https://visitcount.itsvg.in/api?id=RasikaLakmal&icon=8&color=1)](https://visitcount.itsvg.in)
